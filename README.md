@@ -1,3 +1,5 @@
+
+![logo](https://github.com/nandanar010/nandanar010/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nandana Rajesh</h1>
 <h3 align="center">🌟 "Weaving words, holding mics, and dabbling in tech magic."</h3>
 
